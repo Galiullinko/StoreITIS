@@ -1,0 +1,14 @@
+/Users/admin/Projects/Store/src/main/java/dao/ItemsDaoCSVImpl.java
+/Users/admin/Projects/Store/src/main/java/dao/ItemsDaoHashMapImpl.java
+/Users/admin/Projects/Store/src/main/java/controllers/Controller.java
+/Users/admin/Projects/Store/src/main/java/services/StoreService.java
+/Users/admin/Projects/Store/src/main/java/dao/ItemsDaoFileBasedImpl.java
+/Users/admin/Projects/Store/src/main/java/dao/ItemReader.java
+/Users/admin/Projects/Store/src/main/java/dao/ItemsDaoTSVImpl.java
+/Users/admin/Projects/Store/src/main/java/services/StoreFactory.java
+/Users/admin/Projects/Store/src/main/java/dao/ItemsDao.java
+/Users/admin/Projects/Store/src/main/java/dao/models/Item.java
+/Users/admin/Projects/Store/src/main/java/services/StoreServiceImpl.java
+/Users/admin/Projects/Store/src/main/java/WebAppInitializer.java
+/Users/admin/Projects/Store/src/main/java/MockTest.java
+/Users/admin/Projects/Store/src/main/java/WebAppContext.java
