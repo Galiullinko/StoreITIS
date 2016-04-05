@@ -15,4 +15,4 @@ effective-settings.xml
 *.log
 *.lck
 *.jar
-/lib
+/lib/*
